@@ -25,5 +25,3 @@ fullPageScroll.init();
 //
 
 //
-
-//
